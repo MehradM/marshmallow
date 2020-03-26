@@ -2,4 +2,4 @@
 
 input()
 
-print('suck it')
+print('Hi')
