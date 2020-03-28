@@ -1,5 +1,7 @@
+def printIt():
+	print('It')
 
+
+printIt()
 
 input()
-
-print('Hi')
